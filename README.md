@@ -1,3 +1,3 @@
 # projectOne
 projectOne
-https://mostafaahmed20.github.io/projectOne/.
+https://optimistic-wiles-b06ffd.netlify.app/
